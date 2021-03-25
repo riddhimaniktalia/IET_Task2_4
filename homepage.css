@@ -1,0 +1,27 @@
+.googlelogo{
+    margin-left: 30px;
+}
+#searchbox{
+  border-radius: 3px;
+}
+body{
+  overflow-y: scroll;
+overflow-x: hidden;
+}
+.nav-link {
+    padding: 0.2rem 0.2rem;
+}
+.subtext{
+  margin-left: 150px;
+  color: grey;
+  font-weight: lighter;
+}
+.firstsite{
+  margin-left: 150px;
+}
+.greentext{
+  color: green;
+}
+.card{
+  margin-left: 150px;
+}
